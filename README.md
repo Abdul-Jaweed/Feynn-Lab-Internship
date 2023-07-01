@@ -3,4 +3,4 @@
 ![img](logo-feynnlab.PNG)
 
 
-<img align="right" src="logo-feynnlab.PNG" width="200">
+<img align="center" src="logo-feynnlab.PNG" width="900">
