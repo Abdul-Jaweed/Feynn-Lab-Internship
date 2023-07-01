@@ -1,1 +1,1 @@
-# :red[Feynn Lab Internship]
+# Feynn Lab Internship
