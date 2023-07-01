@@ -1,3 +1,3 @@
 # Feynn Lab Internship
 
-<img align="center" src="logo-feynnlab.PNG" width="500">
+<img align="center" src="logo-feynnlab.PNG" width="600">
