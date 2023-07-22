@@ -1,0 +1,31 @@
+ModelName,Brand,Price,Power(kW),Mileage(km)
+Audi e-tron,Audi,10200000,95,359
+Audi e-tron GT,Audi,17000000,93.4,388
+Audi RS e-tron GT,Audi,19300000,93.4,401
+BMW i4,BMW,19500000,101,590
+BMW i7,BMW,12100000,71,372
+BMW iX,BMW,11900000,90,200
+BYD Atto 3,BYD,15900000,107,857
+BYD E6,BYD,15300000,79.2,395
+Citroen eC3,Citroen,7390000,83.9,493
+Hyundai IONIQ 5,Hyundai,3399000,60.4,521
+Hyundai Kona Electric,Hyundai,2915000,71.7,415
+Jaguar I-Pace,Jaguar,1150000,29.2,56.2
+Kia EV6,Kia,4595000,72.6,631
+Mahindra E Verito,Mahindra,2384000,39.2,100
+Mahindra XUV400 EV,Mahindra,6095000,77.4,708
+Mercedes-Benz EQB,Mercedes-Benz,1267000,41.5,110
+Mercedes-Benz EQC,Mercedes-Benz,1048000,34.5,456
+Mercedes-Benz EQS,Mercedes-Benz,7450000,66.5,423
+MG Comet EV,MG,9950000,80,455
+MG ZS EV,MG,798000,17.3,230
+Mini Cooper SE,Mini,2338000,50.3,461
+PMV EaS E,PMV,5250000,32.6,270
+Porsche Taycan,Porsche,479000,13.41,200
+Pravaig DEFY,Pravaig,3950000,90,500
+Strom Motors R3,Strom,450000,15,200
+Tata Nexon EV Max,Tata,1649000,40.5,453
+Tata Nexon EV Prime,Tata,1449000,30.2,312
+Tata Tiago EV,Tata,869000,19.2,315
+Tata Tigor EV,Tata,1249000,26,315
+Volvo XC40 Recharge,Volvo,5690000,78,418
